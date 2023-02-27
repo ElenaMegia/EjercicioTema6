@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Ejercicio3 {
     static Scanner sc = new Scanner(System.in);
-    public static void main(String[] args) {
+    public void Ejercicio3metodo() {
         // Pide al usuario que ingrese el valor mínimo
 
         int min = 0;

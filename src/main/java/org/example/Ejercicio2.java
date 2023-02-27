@@ -5,7 +5,7 @@ public class Ejercicio2 {
     static Scanner sc = new Scanner(System.in);
 
 
-    public static void main(String[] args) {
+    public void Ejercicio2metodo() {
         char[][] tabla = new char[4][4];
         int fila = (int) (Math.random() * 4);
         int columna = (int) (Math.random() * 4);

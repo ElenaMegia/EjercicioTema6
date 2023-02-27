@@ -29,7 +29,7 @@ public class Ejercicio1 {
     }
 
     //Escribir un algoritmo principal que llame a estas dos funciones.
-    public static void main(String[] args) {
+    public void Ejercicio1metodo() {
         System.out.println("El mayor es: " + mayor(5, 10));
         System.out.println("El mayor es: " + mayor2(5, 10));
     }
